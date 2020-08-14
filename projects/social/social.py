@@ -166,5 +166,9 @@ if __name__ == '__main__':
 #     end_time = time.time()
 #     print (f"Quadratic runtime: {end_time - start_time} seconds")
 
-# if frienships is sparse linear will have better runtime
+# 4. Stretch goal #2
+# if friendships is sparse linear will have better runtime
 # as the frienships get more dense it gets worse for linear time because of all the collisions it has to handle
+
+#3. Questions
+    #using the equation (num_users * avg_friendships // 2) 
